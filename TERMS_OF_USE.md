@@ -52,3 +52,5 @@ These Terms of Use (hereinafter referred to as "Terms") govern the use of "Tashi
 
 7.3 The User agrees to receive notifications from the Operator regarding the use of the Service via email or postings on the website. The Operator shall notify the User in an appropriate manner, and the User accepts this method of notification.
 
+## Privacy Policy
+We do not knowingly collect any user information.
