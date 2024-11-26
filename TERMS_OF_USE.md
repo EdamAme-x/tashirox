@@ -1,6 +1,6 @@
 # Tashirox (Web Server Load Testing Service) - Terms of Use
 
-These Terms of Use (hereinafter referred to as "Terms") govern the use of [Service Name] (hereinafter referred to as "Service") and constitute a legally binding agreement between the user (hereinafter referred to as "User ") and the operator (hereinafter referred to as "Operator"). By using the Service, the User is deemed to have agreed to these Terms. The User is required to fully understand these Terms before utilizing the Service.
+These Terms of Use (hereinafter referred to as "Terms") govern the use of "Tashirox" (hereinafter referred to as "Service") and constitute a legally binding agreement between the user (hereinafter referred to as "User ") and the operator (hereinafter referred to as "Operator"). By using the Service, the User is deemed to have agreed to these Terms. The User is required to fully understand these Terms before utilizing the Service.
 
 ## Article 1 (Provision of Service)
 
